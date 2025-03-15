@@ -1,0 +1,48 @@
+beautifulsoup4
+certifi
+charset-normalizer
+cmake
+coloredlogs
+filelock
+flatbuffers
+gdown
+humanfriendly
+idna
+Jinja2
+lap
+lit
+MarkupSafe
+mpmath
+networkx
+numpy
+# nvidia-cublas-cu11
+# nvidia-cuda-cupti-cu11
+# nvidia-cuda-nvrtc-cu11
+# nvidia-cuda-runtime-cu11
+# nvidia-cudnn-cu11
+# nvidia-cufft-cu11
+# nvidia-curand-cu11
+# nvidia-cusolver-cu11
+# nvidia-cusparse-cu11
+#nvidia-nccl-cu11
+#nvidia-nvtx-cu11
+onnxruntime-gpu
+opencv-python-headless
+packaging
+Pillow
+protobuf
+PyQt5
+PyQt5-Qt5
+PyQt5-sip
+PySocks
+requests
+scipy
+six
+soupsieve
+sympy
+torch
+torchvision
+tqdm
+#triton
+typing_extensions
+urllib3
